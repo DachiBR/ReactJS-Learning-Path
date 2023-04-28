@@ -32,14 +32,4 @@ Large and Active Community: React has a large and active community of developers
 
 JSX (JavaScript XML) is an extension to the JavaScript language that is used with React to define the structure and content of a component's UI. It allows developers to write HTML-like syntax in their JavaScript code, which can be then easily converted to JavaScript code. JSX is not a requirement for React, but it is a popular and commonly used syntax because of its simplicity and readability.
 
-JSX looks like HTML but is actually a syntactic sugar for function calls and object construction. For example, instead of writing pure JavaScript code to create a component that renders a heading element, JSX allows developers to write the following:
-
-const heading = <h1>Hello, world!</h1>;
-This syntax looks similar to HTML, but it is actually converted to JavaScript code by a transpiler such as Babel. The transpiler converts the JSX code to JavaScript code that creates a React element with the specified tag, attributes, and content. Here's how the above code might look after transpiling:
-
-const heading = React.createElement('h1', null, 'Hello, world!');
-JSX also allows developers to embed JavaScript expressions within the HTML-like syntax using curly braces {}. This allows developers to easily combine data and logic with UI elements. For example, the following JSX code uses a JavaScript expression to render the value of a variable:
-
-const name = "John Doe";
-const greeting = <h1>Hello, {name}!</h1>;
-After transpiling, this code would create a React element with the text "Hello, John Doe!".
+JSX looks like HTML but is actually a syntactic sugar for function calls and object construction...
