@@ -5,6 +5,7 @@
 3. [What Is JSX](#what-is-jsx)
 4. [Syllabus](#Syllabus)
 5. [Module 1](#Module-1)
+6. [Module 2](#Module-2)
 
 
 ## What Is React
@@ -67,3 +68,32 @@ JSX looks like HTML but is actually a syntactic sugar for function calls and obj
 12.Practice Quiz
 
 13.Graded Quiz
+
+
+
+
+## Module 2 - React components
+
+1.Module Introduction & Learning Objectives
+
+2.Introduction to states
+
+3.Passing data and states between components
+
+4.Components Lifecycle
+
+5.Connecting React to External services
+
+6.Testing React components
+
+7.Hands-on Lab: React Todo List Application
+
+8.Reading Module 2 Summary
+
+9.Glossary- React Components
+
+10.Cheatsheet- React Components
+
+11.Practice Quiz
+
+12.Graded Quiz
