@@ -6,6 +6,7 @@
 4. [Syllabus](#Syllabus)
 5. [Module 1](#Module-1)
 6. [Module 2](#Module-2)
+7. [Module 3](#Module-3)
 
 
 ## What Is React
@@ -97,3 +98,34 @@ JSX looks like HTML but is actually a syntactic sugar for function calls and obj
 11.Practice Quiz
 
 12.Graded Quiz
+
+
+
+
+## Module 3 - Advanced React
+
+1.Module Introduction & Learning Objectives
+
+2.Hooks
+
+3.Implementing Forms
+
+4.Introduction to Redux
+
+5.Essential concepts of Redux - Stores, Procedures and Actions
+
+6.Async with Redux
+
+7.Binding Redux and Flow
+
+8.Lab - React Redux 
+
+9.Reading Module 3 Summary
+
+10.Glossary- Advanced React
+
+11.Cheatsheet- Advanced React
+
+12.Practice Quiz
+
+13.Graded Quiz
