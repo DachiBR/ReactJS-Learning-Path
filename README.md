@@ -38,19 +38,32 @@ JSX (JavaScript XML) is an extension to the JavaScript language that is used wit
 JSX looks like HTML but is actually a syntactic sugar for function calls and object construction...
 
 
+
 ## Syllabus
 ## Module 1 - Building Rich Front-End Applications with React and ES6 
 
 1.Module Introduction & Learning Objectives
+
 2.Introduction to Frontend Frameworks and React JS
+
 3.Insiders Viewpoints: Front-end Frameworks
+
 4.Introduction to ES6
+
 5.Introduction to JSX
+
 6.Hands-on Lab: Hello World with React
+
 7.Introduction to Components
+
 8.Working with React components - Props and event handling
+
 9.Glossary - Building a Rich Front-End Application using REACT & ES6
+
 10.Cheatsheet - Building a Rich Front-End Application using REACT & ES6
+
 11.Reading Module 1 Summary
+
 12.Practice Quiz
+
 13.Graded Quiz
