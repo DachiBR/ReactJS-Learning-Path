@@ -7,6 +7,7 @@
 5. [Module 1](#Module-1)
 6. [Module 2](#Module-2)
 7. [Module 3](#Module-3)
+8.  [Module 4](#Module-4)
 
 
 ## What Is React
@@ -129,3 +130,22 @@ JSX looks like HTML but is actually a syntactic sugar for function calls and obj
 12.Practice Quiz
 
 13.Graded Quiz
+
+
+## Module 4 - Final Project
+
+1.Module Introduction & Learning Objectives
+
+2.Practice Assignment - Hands-on Lab: Friends List Application Using Express Server with JWT
+
+3.Project Overview: Scenario and Review Criteria
+
+4.Project Breakdown
+
+5.Hands-on Lab: Book Review Application
+
+6.Peer Review Assignment
+
+7.Module Summary
+
+
