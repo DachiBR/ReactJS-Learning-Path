@@ -4,7 +4,7 @@
 2. [React Major Topics](#react-major-features)
 3. [What Is JSX](#what-is-jsx)
 4. [Syllabus](#Syllabus)
-5. [Module 1](#Module 1)
+5. [Module 1](#Module-1)
 
 
 ## What Is React
