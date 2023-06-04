@@ -3,6 +3,9 @@
 1. [What Is React](#what-is-react)
 2. [React Major Topics](#react-major-features)
 3. [What Is JSX](#what-is-jsx)
+4. [Syllabus](#Syllabus)
+5. [Module 1](#Module 1)
+
 
 ## What Is React
 
@@ -33,3 +36,21 @@ Large and Active Community: React has a large and active community of developers
 JSX (JavaScript XML) is an extension to the JavaScript language that is used with React to define the structure and content of a component's UI. It allows developers to write HTML-like syntax in their JavaScript code, which can be then easily converted to JavaScript code. JSX is not a requirement for React, but it is a popular and commonly used syntax because of its simplicity and readability.
 
 JSX looks like HTML but is actually a syntactic sugar for function calls and object construction...
+
+
+## Syllabus
+## Module 1 - Building Rich Front-End Applications with React and ES6 
+
+1.Module Introduction & Learning Objectives
+2.Introduction to Frontend Frameworks and React JS
+3.Insiders Viewpoints: Front-end Frameworks
+4.Introduction to ES6
+5.Introduction to JSX
+6.Hands-on Lab: Hello World with React
+7.Introduction to Components
+8.Working with React components - Props and event handling
+9.Glossary - Building a Rich Front-End Application using REACT & ES6
+10.Cheatsheet - Building a Rich Front-End Application using REACT & ES6
+11.Reading Module 1 Summary
+12.Practice Quiz
+13.Graded Quiz
