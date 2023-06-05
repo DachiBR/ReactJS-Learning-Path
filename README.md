@@ -72,6 +72,19 @@ JSX looks like HTML but is actually a syntactic sugar for function calls and obj
 13.Graded Quiz
 
 
+## Learning Objectives
+
+Explain how React makes it easier to develop JavaScript applications
+
+Describe how to use new features that have been added to JavaScript as a part of ES6
+
+Describe the benefits of using JSX
+
+Describe the features of React components
+
+Describe how to set and access properties in functional and class components
+
+
 
 
 ## Module 2 - React components
